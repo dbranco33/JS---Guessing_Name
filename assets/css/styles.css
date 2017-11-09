@@ -1,0 +1,27 @@
+#promo {
+  text-align:center;
+  padding:4%;
+}
+
+.jumbotron {
+}
+
+#technique_content {
+  /*text-align:inherit;*/
+  padding:4%;
+  /*margin:4%;*/
+}
+
+#list_techniques {
+  /*text-align:left;*/
+  padding:4%;
+}
+
+#code_content {
+  padding:4%;
+}
+
+#code_script {
+  padding:4%;
+}
+
