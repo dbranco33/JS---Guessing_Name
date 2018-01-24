@@ -15,6 +15,4 @@ The computer will alert the player about if his/her guess is correct or wrong:
   
 - If the guess is correct, the computer will congratulate the player and inform how much guesses he/she did to win the game.
 
-The idea of this program/small project was to study and practice basic JavaScript techniques at Front-End/Client Side, the pages were created using responsive design and Bootstrap. The file with the javascript code is in .../assets/js/guessing_name.js
-
-The project is available online to play :) at this link: http://demo-guess-name.demosmallbusiness.x10host.com/index.html 
+The idea of this program/small project was to study and practice basic JavaScript techniques at Front-End/Client Side, the pages were created using responsive design and Bootstrap. The file with the javascript code is in .../assets/js/guessing_name.js 
